@@ -38,8 +38,8 @@ body {
   -webkit-transform: translateZ(0);
           transform: translateZ(0);
   padding: 30px;
-  background: -webkit-gradient(linear, left bottom, right top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url("../img/jitusd9.jfif") center center/cover;
-  background: linear-gradient(to top right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("../img/jitusd9.jfif") center center/cover;
+  background: -webkit-gradient(linear, left bottom, right top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url("jitusd9.jfif") center center/cover;
+  background: linear-gradient(to top right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("jitusd9.jfif") center center/cover;
   border-radius: 5px;
   width: 400px;
   height: 200px;
